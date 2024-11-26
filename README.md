@@ -34,7 +34,7 @@ I'm a passionate developer skilled in **web development** and **backend technolo
 
 ## 📱 **Connect With Me**
 
-<a href="https://www.linkedin.com/in/omkar-raut" target="_blank">
+<a href="https://www.linkedin.com/in/omkar-raut-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="80" />
 </a>
 
