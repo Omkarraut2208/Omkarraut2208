@@ -6,7 +6,6 @@
 I'm a passionate developer skilled in **web development** and **backend technologies**. I specialize in:  
 - Building responsive, user-friendly interfaces.  
 - Leading projects with a focus on clean design and functionality.  
-- Managing and optimizing databases for better performance.
 
 ---
 - ⚗️ **Frontend Developer**  
