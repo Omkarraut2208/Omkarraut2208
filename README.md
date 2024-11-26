@@ -9,7 +9,7 @@ I'm a passionate developer skilled in **web development** and **backend technolo
 
 ---
 - ⚗️ **Frontend Developer**  
-- 📫 **Reach Me**: [rautonkar228@gmail.com](mailto:rautonkar228@gmail.com)  
+- 📫 **Reach Me**: [omkar.raut2201@gmail.com](mailto:omkar.raut2201@gmail.com)  
 - 🌱 **Open to Opportunities**: Actively seeking roles  
 - 🌍 **Location**: Pune, Maharashtra  
 - 💻 **Portfolio**: [Visit My Portfolio](https://omkarrautportfolio.netlify.app/)
