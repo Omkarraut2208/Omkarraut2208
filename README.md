@@ -31,11 +31,16 @@ I'm a passionate developer skilled in **web development** and **backend technolo
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipse&logoColor=white&style=flat)
 
 ---
+
 ## 📱 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/omkar-raut)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00BFAE?logo=netlify&logoColor=white&style=flat)](https://omkarrautportfolio.netlify.app/)
+<a href="https://www.linkedin.com/in/omkar-raut" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="80" />
+</a>
 
+<a href="https://omkarrautportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00BFAE?logo=netlify&logoColor=white&style=flat" alt="Portfolio" width="80" />
+</a>
 
 
 <!---
